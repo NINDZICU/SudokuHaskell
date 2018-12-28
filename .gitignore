@@ -1,0 +1,5 @@
+.stack-work/
+sudoku.cabal
+*~
+/dist/
+*.2.0.1_ghc-8.4.4.exe
